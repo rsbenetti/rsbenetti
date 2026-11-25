@@ -113,7 +113,7 @@ Acredito que a tecnologia vai muito além de escrever códigos. Trata-se de comp
 
 ## Projetos
 
-### 🤖 Sofia — Local AI Assistant
+### 🤖 Sophia — Local AI Assistant
 
 <img src="https://img.shields.io/badge/Status-Em%20desenvolvimento-0891B2?style=flat-square"/>
 
